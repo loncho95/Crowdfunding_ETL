@@ -1,28 +1,32 @@
 # Crowdfunding_ETL _(Project 2)_
 
-This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and regular expressions to extract and transform the data.
+This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and JSONs to extract and transform the data. We extracted the data we needed from two raw Excel files, we transformed them to make them useful, exported four CSV files with the transformed data, and we created a SQL database and loaded the CSVs onto the database.
 
-# Credits
+# Authors
 
-Jorge Alonso Lozano Tena
-Cesar Augusto Cruz Reyes
-Daniel Ramón Murillo Antuna
+- Jorge Alonso Lozano Tena [@loncho95](https://www.github.com/loncho95)
+- César Augusto Cruz Reyes [@Csarcruz](https://www.github.com/Csarcruz)
+- Jorge Alonso Lozano Tena [@daniel-r-murillo-antuna](https://www.github.com/daniel-r-murillo-antuna)
 
-## A _???_ folder:
+# Repository contents:
 
-It has the initial six CSV files.
+## A _Resources_ folder:
+
+It has:
+- The two raw Excel files, which we used for our ETL pipeline.
+- The four CSV files that we exported and contain the transformed data.
+
+## The _ETL_Mini_Project_JLozano_CCruz_DMurillo_ Jupyter Notebook:
+
+It contains the code we used to extract and transform the data and a preview of the CSV files that were created.
 
 ## A _Physical_ERD_ image:
 
-It depicts a detailed relationship between all the entities created, their data types, primary keys, and foreign keys. It was modelled with the Quick Database Diagrams ([QuickDBD](https://www.quickdatabasediagrams.com/)) app.
+It depicts a detailed relationship between the four entities created —from the four CSVs with transformed data—, their data types, primary keys, and foreign keys. It was modelled with the Quick Database Diagrams ([QuickDBD](https://www.quickdatabasediagrams.com/)) app.
 
-## A _???_ Jupyter Notebook:
+## A _crowdfunding_db_schema_ SQL file:
 
-It was used to explore the data of the CSV files before modelling the tables, engineering the database, and coding the queries.
-
-## A _???_ SQL file:
-
-It contains the eight queries coded to get specific information about the previous employees.
+It contains the table schema we created to load the transformed data of the four CSVs.
 
 
 ```#Thank you for reading me!```
