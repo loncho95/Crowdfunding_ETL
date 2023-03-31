@@ -1,6 +1,6 @@
 # Crowdfunding_ETL _(Project 2)_
 
-This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and JSONs to extract and transform the data. We extracted the data we needed from two raw Excel files, we transformed them to make them useful, exported four CSV files with the transformed data, and we created a SQL database and loaded the CSVs onto the database.
+This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and JSONs to extract and transform the data.
 
 # Authors
 
@@ -8,13 +8,17 @@ This repository contains a mini team project in which we worked together to buil
 - César Augusto Cruz Reyes [@Csarcruz](https://www.github.com/Csarcruz)
 - Jorge Alonso Lozano Tena [@daniel-r-murillo-antuna](https://www.github.com/daniel-r-murillo-antuna)
 
-# Repository contents:
+# Repository description:
+
+The project included the extraction of data from two raw Excel files, which contained data from Crowdfunding pledges that resulted in different outcomes and belonged to different categories and subcategories. Then, we transformed the data to make them useful and exported four CSV files, which contained the Crowdfunding contacts, the campaigns information, the specific categories, and the specific subcategories to which each campaign belonged. Last, we created a SQL database and loaded the CSVs onto the database.
+
+Our repository contains the following:
 
 ## A _Resources_ folder:
 
 It has:
 - The two raw Excel files, which we used for our ETL pipeline.
-- The four CSV files that we exported and contain the transformed data.
+- The four CSV files that we exported and which contain the transformed data.
 
 ## The _ETL_Mini_Project_JLozano_CCruz_DMurillo_ Jupyter Notebook:
 
