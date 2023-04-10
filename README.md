@@ -2,7 +2,7 @@
 
 This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and JSONs to extract and transform the data.
 
-# Authors
+## Authors
 
 - Jorge Alonso Lozano Tena [@loncho95](https://www.github.com/loncho95)
 - César Augusto Cruz Reyes [@Csarcruz](https://www.github.com/Csarcruz)
