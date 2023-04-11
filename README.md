@@ -6,7 +6,7 @@ This repository contains a mini team project in which we worked together to buil
 
 - Jorge Alonso Lozano Tena [@loncho95](https://www.github.com/loncho95)
 - César Augusto Cruz Reyes [@Csarcruz](https://www.github.com/Csarcruz)
-- Jorge Alonso Lozano Tena [@daniel-r-murillo-antuna](https://www.github.com/daniel-r-murillo-antuna)
+- Daniel Ramón Murillo Antuna [@daniel-r-murillo-antuna](https://www.github.com/daniel-r-murillo-antuna)
 
 # Repository description:
 
