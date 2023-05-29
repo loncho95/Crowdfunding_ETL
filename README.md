@@ -1,4 +1,4 @@
-# Crowdfunding_ETL _(Project 2)_
+# Building an ETL pipeline to analyze crowdfunding
 
 This repository contains a mini team project in which we worked together to build an ETL pipeline using Python, Pandas, Python dictionary methods, and JSONs to extract and transform the data.
 
@@ -6,7 +6,7 @@ This repository contains a mini team project in which we worked together to buil
 
 - Jorge Alonso Lozano Tena [@loncho95](https://www.github.com/loncho95)
 - César Augusto Cruz Reyes [@Csarcruz](https://www.github.com/Csarcruz)
-- Daniel Ramón Murillo Antuna [@daniel-r-murillo-antuna](https://www.github.com/daniel-r-murillo-antuna)
+- Daniel R. Murillo Antuna [@dan-murillo](https://www.github.com/dan-murillo)
 
 # Repository description:
 
